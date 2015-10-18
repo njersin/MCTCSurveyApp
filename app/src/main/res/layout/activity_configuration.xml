@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"/>
 
     <EditText
         android:id="@+id/question_field"
@@ -24,7 +24,7 @@
         android:layout_below="@+id/question_instructions"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:layout_gravity="left" />
+        android:layout_gravity="left"/>
 
     <TextView
         android:id="@+id/answer_1_instructions"

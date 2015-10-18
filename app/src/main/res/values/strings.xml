@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MCTC Survey</string>
+    <string name="results_button">Show Results</string>
+    <string name="configure_button">Configure Survey</string>
+
+    <string name="title_activity_results">MCTC Survey Results</string>
+    <string name="results_text">Results:</string>
+    <string name="reset_button">RESET</string>
+    <string name="continue_button">CONTINUE</string>
+
+    <string name="title_activity_configuration">Configure MCTC Survey</string>
+    <string name="question_instructions">Enter your question</string>
+    <string name="answer_1_instructions">Enter the first answer</string>
+    <string name="answer_2_instructions">Enter the second answer</string>
+    <string name="save_button_instructions">Save</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
